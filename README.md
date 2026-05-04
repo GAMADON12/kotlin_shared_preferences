@@ -1,5 +1,5 @@
 # kotlin_shared_preferences
-for shogo
+for ueda
 
 ```xsdregexp
 === Flutter ===
